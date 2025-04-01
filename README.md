@@ -143,5 +143,12 @@ Este projeto tem como objetivo analisar dados relacionados ao iFood, focando na 
 - A flexibilização das restrições em 2021 também pode ter incentivado a entrada de novos restaurantes no mercado.  
 
 
+## 📊 Dashboard Interativo no Power BI  
+
+O arquivo localizado no diretório `DashBoard_PowerBI` contém um **dashboard interativo** desenvolvido no **Power BI**, apresentando as análises realizadas neste projeto.  
+
+Esse dashboard permite a visualização dinâmica dos dados, facilitando a interpretação dos insights extraídos.  
+
+
 
 
